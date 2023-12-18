@@ -1,0 +1,277 @@
+Timestamp;What programme are you in?;Have you taken a course on machine learning?;Have you taken a course on information retrieval?;Have you taken a course on statistics?;Have you taken a course on databases?;What is your gender?;Chocolate makes you.....;When is your birthday (date)?;Number of neighbors sitting around you?;Did you stand up?;You can get 100 euros if you win a local DM competition, or we don’t hold any competitions and I give everyone some money (not the same amount!). How much do you think you would deserve then? ;Give a random number;Time you went to be Yesterday;What makes a good day for you (1)?;What makes a good day for you (2)?;What is your stress level (0-100)?
+3/27/2019 10:16:11;AI;yes;1;mu;ja;unknown;slim;unknown;3;no;100;6;23:00;sun;lecture;
+4/1/2019 15:58:21;AI;no;0;mu;ja;male;fat;09071992;1;no;0;7;3;DM;AI;1
+4/1/2019 15:59:07;Computer Science;yes;1;unknown;ja;male;neither;04/08/95;0;unknown;0;0;0;0;0;100
+4/1/2019 15:59:30;Econometrics;yes;1;mu;ja;male;fat;29-09-1993;2;no;42;1,645;0,3;Winning;Food;0
+4/1/2019 15:59:58;cs;no;1;mu;ja;male;neither;0212;2;no;second;66;20;kiss;love;100
+4/1/2019 16:00:01;AI;yes;1;mu;ja;male;unknown;31-12-1994;0;yes;Barkie;420;0000;Ganja;Sun;100
+4/1/2019 16:00:12;MSc Bioinformatics & Systems Biology;yes;0;mu;nee;female;neither;09-10-1995;Many;no;100;739;22:00;chocolate;Sun;80
+4/1/2019 16:00:16;Bioinformatics and Systems biology;yes;1;mu;ja;male;I have no idea what you are talking about;22/07/1996;0;yes;Don't so much;5;24,3;Stay with my friends;Sun;50
+4/1/2019 16:00:21;CLS;no;0;mu;ja;male;neither;30-02-1945;0;no;0;31;03:30;Done something useful;Had fun;0
+4/1/2019 16:00:31;AI;yes;1;mu;nee;male;neither;22;Infinite ;no;Above average ;5;02:00;A sunny day;Relax walks;80
+4/1/2019 16:00:52;Bioinformatics;yes;0;mu;nee;male;neither;10/06/1991;470;no;20;3851;11;sun;sleep;150
+4/1/2019 16:00:59;Computational Science;no;0;mu;nee;male;fat;19;3;no;0,25;6;3;Sun;food;20
+4/1/2019 16:00:59;master AI;yes;1;mu;nee;male;I have no idea what you are talking about;18 March 1994;3;no;100000000;7;0:40;Good sleep;Good breakfast;10
+4/1/2019 16:01:02;Business Analytics;yes;1;mu;ja;male;fat;02-08-1996;1;no;100;16;2330;Girls;Alcohol;16
+4/1/2019 16:01:03;Business Analytics;yes;1;mu;ja;male;fat;1 May;2;no;95;314.152;00:00;sun;food;50
+4/1/2019 16:01:04;Econometrics;yes;0;mu;nee;male;neither;1996;11;no;50;11;2:00;Work;Good sleep;10
+4/1/2019 16:01:04;Econometrics;no;0;mu;nee;male;fat;03-03-1994;6;no;30;5;5 am;If i went to the gym;Healthy food;0
+4/1/2019 16:01:06;BA;yes;1;mu;ja;male;fat;17-05-1994;7;no;30;17;22;Sun;Football;17
+4/1/2019 16:01:09;Master of Bioinformatics and system biology;yes;1;mu;ja;male;fat;08-28;3;yes;50;7;24:00;Sunshine;Good meals;40
+4/1/2019 16:01:13;BA;yes;0;mu;ja;female;neither;27/12/1996;1;no;100;7;23:00;Sun;Good food;20
+4/1/2019 16:01:13;Bioinformatics and Systems Biology;yes;0;mu;ja;female;fat;18-10-1996;2;no;100;2;21;Horses;Chocolate;12
+4/1/2019 16:01:13;Artificial Intelligence;no;1;mu;nee;female;slim;21-08-1995;A lot;no;100;6;01:03;Sun;Nice food;2
+4/1/2019 16:01:13;Artificial Intelligence;no;0;mu;ja;male;fat;10th,June;4;no;0;888;18:00;good news;very good news;63
+4/1/2019 16:01:14;AI;yes;1;mu;ja;female;fat;09/08/1996;1;no;10;2;00:00;Sunshine;Nice food;0
+4/1/2019 16:01:15;AI;yes;1;mu;ja;male;neither;24-02-1994;1;no;Barkie 20;0251656723;2:30 am;Sun;Relaxing;0
+4/1/2019 16:01:16;Bioinformatics and Systems Biology;yes;0;mu;nee;male;neither;04/06;0;no;0,01;17572857155648217566617584166;01:00;Sea;Weather;98
+4/1/2019 16:01:16;Artificial Intelligence;yes;0;mu;ja;female;slim;01-01-1993;5;no;5;6;1 AM;Sunshine;Holiday;20
+4/1/2019 16:01:17;Computational Science ;no;0;mu;nee;female;neither;29/03;1;no;0,25;9;23:30;Sunshine;Vacation;10
+4/1/2019 16:01:17;Bioinformatics and System biology;yes;1;mu;ja;female;slim;1996-11-06;2;no;100;579659987878648768;22:30;Tony chocolonely toffee pretzel donkere melk of peanutbutter Ben and Jerry's ;Cuddling with dogs ;3
+4/1/2019 16:01:17;BA;yes;0;mu;nee;male;I have no idea what you are talking about;11-08;2;no;50;9;22:00;Sun;Summer;5
+4/1/2019 16:01:18;Masters Compuational Science;yes;0;sigma;nee;unknown;neither;15/10/1990;4;no;0;8;23;Being around friends;Figuring something out;99
+4/1/2019 16:01:18;MA Data Science (UvA);yes;1;mu;ja;male;fat;03-11-1991;5;no;3,5;2;00:45;Friends;Good Food;22
+4/1/2019 16:01:24;Bioinformatics and Systems Biology MsC;yes;0;mu;nee;unknown;neither;15-07-1995;1;no;10 cents ;6546498975632.3202156845312.0124653120;1.30 pm ;weed;lovely people ;0
+4/1/2019 16:01:25;Quantitative Risk Management ;no;0;mu;nee;male;I have no idea what you are talking about;1988;10;no;60;9;12;Going for a run;Having sex;40
+4/1/2019 16:01:25;QRM;yes;1;mu;ja;male;fat;25-05-1995;2;no;1;9;1:00;Food;Sex;80
+4/1/2019 16:01:25;CS;no;0;mu;nee;male;I have no idea what you are talking about;05 Dec;6;no;5;5;2;Food;People;60
+4/1/2019 16:01:27;BioSB;yes;0;mu;nee;female;I have no idea what you are talking about;12-12-1995;2;no;20;12;01:00;Sun;Food;-10
+4/1/2019 16:01:28;Econometrics;no;0;mu;nee;male;I have no idea what you are talking about;02-05;469;no;100;7;01:00;Nice weather;No stress;0
+4/1/2019 16:01:29;BA;yes;1;mu;ja;female;fat;03-01;10;no;10;8;21:00;No lectures and work;Food;20
+4/1/2019 16:01:29;AI;no;0;mu;nee;female;slim;13-07-1995;1;no;double;5;2:00;sunshine;friends;110
+4/1/2019 16:01:29;CLS;no;1;mu;ja;female;fat;03/12;4;no;0,00;5,83;01:30;Good conversation;Being with friends ;60
+4/1/2019 16:01:29;M bioinformatics;yes;0;mu;ja;male;fat;7-4-95;5;no;100/471;7;1;laughing;smiling;15
+4/1/2019 16:01:29;Business Analytics;yes;1;mu;ja;male;neither;23-02-1997;4;no;15;1;23:30;Gym;Enough sleep;30
+4/1/2019 16:01:29;AI;yes;1;mu;ja;female;neither;30-3-1995;8;no;60;46743222;21;sunshine;sports;25
+4/1/2019 16:01:29;Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;09/03/1994;4;no;0,2;3;22:30;Food;Sunshine;33
+4/1/2019 16:01:29;CS;yes;1;mu;nee;male;neither;27/04/1994;4;no;100;6483920484627;3:00;Vim;Emacs;10
+4/1/2019 16:01:30;Bioinformatics and Systems Biology ;yes;0;mu;nee;male;neither;11-05-1996;0;no;1;4;01:00;A lot of sleep;Coffee;Over 9000
+4/1/2019 16:01:31;UvA MSc Information Studies: Data Science;yes;0;mu;nee;male;neither;13-09-1995;6;no;85;3,14;23:00;Enough sleep;Sunshine;50
+4/1/2019 16:01:31;Computational science ;no;0;sigma;nee;male;neither;23/01/1994;3;no;3;3;11;Sport;Food;15
+4/1/2019 16:01:31;MsCS;yes;1;mu;ja;male;unknown;kuhbj;Twenty four;no;100/470;777777777;1:00;Food;Sex;-50
+4/1/2019 16:01:31;M AI;yes;1;mu;ja;male;neither;Tomorrow ;Lots;no;100;5587458772588865;I didnt;Sun;Food;Ten
+4/1/2019 16:01:33;AI;yes;1;mu;ja;male;neither;19-12-1995;1;no;15;8,5;02:40;The weather;Amount of work needed to be done;0
+4/1/2019 16:01:33;CS;yes;1;sigma;ja;female;neither;DECEMBER 1993;7;no;90;7;1 am;Travel;Party;20
+4/1/2019 16:01:33;AI;yes;0;mu;ja;female;fat;12.12.1995;6;no;5;1212;12:30;Friends & family;Sports;30
+4/1/2019 16:01:34;Econometrics;no;0;mu;nee;male;I have no idea what you are talking about;23-08-1992;3921;no;91;27;01:00;Weather;Good food;99,9
+4/1/2019 16:01:34;EOR;no;0;mu;nee;male;fat;04041996;0;unknown;2;4. 83636354;2,03;Good food;Warm weather;30
+4/1/2019 16:01:34;Master Digital Business and Innovation;no;0;mu;nee;male;fat;22-07-1995;2;no;33,33;9;23:00;Sun;Food;69
+4/1/2019 16:01:34;MSc Computer Science (Big Data Engineering);yes;0;mu;ja;male;neither;11-02-1996;2;no;100;69;23:30;Sun;Good food;10
+4/1/2019 16:01:34;Business Analytics;yes;0;mu;ja;male;I have no idea what you are talking about;26-05-1997;7;no;100;7;24;A nice meal;Sleep late;0
+4/1/2019 16:01:35;AI;yes;0;sigma;nee;male;I have no idea what you are talking about;02-12-1992;1;no;0,4;6;23:30;Activities;People;20
+4/1/2019 16:01:35;Computer Science (joint degree);yes;1;mu;ja;male;fat;14;4;no;50;3,14159265359;4:25AM;Surprise money;Surprise presents;99
+4/1/2019 16:01:35;AI;yes;1;mu;ja;male;I have no idea what you are talking about;13/05;2;no;1/470;7;1;No hangover;Sleep;15
+4/1/2019 16:01:36;Medical Informatics;yes;0;mu;nee;female;fat;18-11-1995;2;no;10;8;23:00;Working out;Meeting with friends;10
+4/1/2019 16:01:36;BA;unknown;0;mu;nee;female;slim;27/06/1991;1;no;100;3;2:30;Sun;Vacation;100
+4/1/2019 16:01:36;Bioinformatics and Systems Biology;no;0;mu;ja;female;I have no idea what you are talking about;25.02.1993;5;no;20;7;23:30;playing volleyball;sleeping and playing more volleyball;20
+4/1/2019 16:01:36;AI;yes;1;mu;ja;male;fat;30.01.1996;1;no;10;7;3:00;Good weather;Meeting my friends;7
+4/1/2019 16:01:36;CS;yes;1;mu;ja;male;unknown;05-02-1986;Unknown;no;50;1;23:30;No lectures;Waking up early;0
+4/1/2019 16:01:36;AI;yes;1;mu;ja;male;neither;03OCT1996;2;no;20;96;110305pm;Beer;Sunshine;10
+4/1/2019 16:01:37;BA;yes;0;mu;ja;female;fat;31-10-1996;8;no;80;2;22:30;Sun;Chocolate;75
+4/1/2019 16:01:37;Operation Research;yes;0;mu;ja;male;neither;10/05/1996;7;no;0;2;22,3;Beer;Sun;20
+4/1/2019 16:01:37;MS;yes;0;mu;ja;unknown;I have no idea what you are talking about;0109;5;no;1/number of students;8;3;Chocolate;Learning;37
+4/1/2019 16:01:38;M bioinformatics;yes;0;sigma;ja;male;fat;18-07-95;2;no;101;8;01:00;Cold beer in the sun;Sex;10
+4/1/2019 16:01:38;DBI Digital Business and Innovation;no;0;mu;ja;female;fat;14th March;2;no;80;7;00;Sun;Friends;30
+4/1/2019 16:01:38;BA;yes;1;mu;ja;male;neither;15-02-1994;1;no;99;Pi;22:30;Music;Sunshine;99
+4/1/2019 16:01:39;MSc Artificial Intelligence ;yes;1;mu;ja;male;neither;19-01-1996;5;no;0;341;23h00;Gym;Free beer;40
+4/1/2019 16:01:39;Computational science;yes;0;mu;ja;female;slim;08/02/1997;400;no;50;8;9;Chocolate;No lecture;200
+4/1/2019 16:01:39;AI;yes;1;mu;nee;male;neither;26-10;5;no;80;3;23:34;Sunshine;Sleeping in;0
+4/1/2019 16:01:39;Artificial Intelligence;yes;1;mu;ja;female;I have no idea what you are talking about;01-04-1997;3;no;10;7;00:00;Sun;Friends;60
+4/1/2019 16:01:39;AI;yes;1;mu;nee;female;unknown;14/11/1995;0;no;21 cents;1;23:00;Sunshine;Big breakfast;0
+4/1/2019 16:01:40;Artificial Intelligence;no;0;mu;ja;female;neither;17.10.1996.;5;no;200;7;23;sun;good food ;30
+4/1/2019 16:01:40;exchange student (Sociology);yes;0;mu;nee;female;neither;05.09:1993;2;no;10;7;02:00;no stress;nice food;10
+4/1/2019 16:01:40;AI;yes;1;mu;nee;male;neither;22.03.94;1;no;99;7;12;Friends;Food;5
+4/1/2019 16:01:40;Financial Econometrics;no;0;mu;ja;male;slim;06-12-1993;2;unknown;90;3,14;2359;Good food;Weekend;110
+4/1/2019 16:01:40;Finance;no;0;mu;nee;male;neither;4-12-1995;2;no;1;3;02:00;Good weather ;Alcohol;68
+4/1/2019 16:01:40;Artificial Intelligence;yes;1;mu;ja;male;neither;04061997;3;no;5;7;3:30;Mood;Succes;60
+4/1/2019 16:01:40;Computational Science;no;0;mu;nee;female;slim;13/08/1996;3;no;9999999999999999999999;3,5282625;23:45;Sunshine;Getting work done;Low
+4/1/2019 16:01:40;AI;yes;1;mu;ja;male;neither;21-05-1995;2;yes;25;7;23:00;The sun;Don't have stress;10
+4/1/2019 16:01:40;Business Analytics;yes;1;mu;ja;female;I have no idea what you are talking about;07-06-1994;5;no;0,25;3,14;01:30;Sunshine;Friends;15
+4/1/2019 16:01:39;MSc QRM (DHP);no;0;mu;nee;male;fat;15,05;2;no;0;7;1;sunny;no exams;50
+4/1/2019 16:01:40;Bioinf;no;0;mu;ja;male;I have no idea what you are talking about;26-06;10;no;50;7;13;No deadlines;No stress;99
+4/1/2019 16:01:40;Bioinformatics;yes;0;mu;ja;male;neither;03-11-1992;1;no;100;2;23:00;Beer;Sex;80
+4/1/2019 16:01:41;BA;yes;0;mu;ja;female;neither;27/11/1996;7;no;1;5;00:57;Sun;Food;75
+4/1/2019 16:01:41;AI;yes;1;mu;ja;female;neither;25-11-1994;5;no;100;5;00:30;Sunshine;Coffee;55
+4/1/2019 16:01:41;Finance;no;0;mu;nee;male;fat;27-01-1993;1;no;0,25;5;12;Sunny;Passing the data mining course;0
+4/1/2019 16:01:41;Business Analytics;yes;1;mu;ja;male;I have no idea what you are talking about;10-09-1995;1;no;2,5;9;23:55;Pizza;Lot of time in bed;53
+4/1/2019 16:01:41;Business Analytics ;yes;0;mu;nee;male;neither;15/4/1995;2;no;7;7;12;Sun;Free;0
+4/1/2019 16:01:41;BA;yes;0;mu;ja;male;fat;12-08-96;2;no;5;6;23:30;No deadline;Party;4
+4/1/2019 16:01:41;BA;yes;0;mu;nee;male;fat;October 8th ;0;no;100/471;4;0:00;Chocolate ;Mathematics ;42
+4/1/2019 16:01:41;Econometrics;no;0;mu;nee;male;fat;3 juni 1995;2;no;100;9;23:30;Weekend;Fun;10
+4/1/2019 16:01:41;Business Analytics;yes;0;mu;ja;male;fat;20-09-1995;3;unknown;50;25;12;Sex;Beer;100
+4/1/2019 16:01:42;AI;yes;1;mu;ja;female;neither;14-01-1992;8;no;0;4;21:30;When I’m productive;When I feel good;20
+4/1/2019 16:01:42;Econometrics;yes;0;mu;nee;male;neither;13-10;2;no;70;4;23:30;Fruitful day ;Good weather;13
+4/1/2019 16:01:42;BA;yes;0;mu;ja;female;I have no idea what you are talking about;21-10-1996;2;no;100;8;23:00;Sun;Sport;0
+4/1/2019 16:01:42;Master Digital Business and Innovation;no;0;mu;nee;female;fat;25-08-1993;1;no;33,33;9;23:30;sun;alcohol;88
+4/1/2019 16:01:42;AI;no;0;mu;nee;female;slim;31-01-1995;6;no;10;3;0;sunshine;good food;70
+4/1/2019 16:01:42;Digital Business & Innovation;yes;1;mu;ja;male;slim;01-05-1996;7;no;2;5;23,45;sunshine;money;1
+4/1/2019 16:01:43;BA;yes;0;mu;ja;male;I have no idea what you are talking about;09/07;2;no;100;7;24:00;Pizza;Sleep late;25
+4/1/2019 16:01:43;AI;no;0;mu;nee;male;fat;24th septembre;6;no;0;9;23:00;Good food;Sex;70
+4/1/2019 16:01:43;MSc Artificial Intelligence: Cognitive Science;no;0;mu;nee;female;neither;15 09 1994;24;no;100;9;22:22;Love;Adventure;45
+4/1/2019 16:01:43;AI;yes;0;mu;nee;female;slim;28-04-97;6;no;1;8;01:00;Sunshine;Friends;50
+4/1/2019 16:01:43;AI;yes;1;mu;ja;male;fat;30.07.97;1;unknown;2;10;23:00;Finishing all the tasks;Sun ;30
+4/1/2019 16:01:43;CS;no;unknown;mu;ja;male;neither;10-06-1989;5;no;1;10;01:30;Sunshine;No work;1
+4/1/2019 16:01:43;CLS;yes;1;mu;ja;male;fat;1995;7;no;100;7;01:00;Learning something;Finishing work;0
+4/1/2019 16:01:43;AI;yes;0;mu;nee;male;neither;15-09-1992;300;no;1;67;0:14;Good sleep;Nice people around;60
+4/1/2019 16:01:44;Computational Science;no;1;mu;ja;female;fat;1996-05-24;Too many;yes;10;1,25;1am;Sunshine;Coffee;10
+4/1/2019 16:01:44;BA;yes;1;mu;ja;female;fat;04-10-1995;2;no;1;7;23,45;Sun;Friends;9
+4/1/2019 16:01:45;AI;yes;1;mu;ja;male;neither;07AUG1993;8;no;100;2104;10:30:21 PM;Birthday;Trains on time;0
+4/1/2019 16:01:45;CS;no;1;sigma;nee;male;neither;01;6;no;50;6;3 am;Food;Weed;10
+4/1/2019 16:01:45;MSc Artificial Intelligence;yes;1;mu;ja;male;I have no idea what you are talking about;24 september;2;no;1;8;12;Sun;Beer;0
+4/1/2019 16:01:45;AI;yes;1;mu;nee;female;I have no idea what you are talking about;02/03;5;no;5;4;23,45;Sun;Spare time;50
+4/1/2019 16:01:45;Quantitative Risk Management;no;0;mu;nee;male;fat;16-01-1997;2;no;0;7;01:00;nice food;sport;0
+4/1/2019 16:01:45;bioinformatics ;yes;1;sigma;ja;female;I have no idea what you are talking about;11 june 1991;5;no;70;8;2:00am;sun;good vibes;60
+4/1/2019 16:01:45;Master Health Sciences;no;0;mu;nee;female;I have no idea what you are talking about;04-10-1994;4;no;3;6,78;22:12;Mind-blowing sex;Sunshine;10
+4/1/2019 16:01:45;AI;no;0;mu;nee;female;neither;1995;2;no;25cent;1;00:30;good food;productive;50
+4/1/2019 16:01:45;Business Analytics;yes;1;mu;ja;male;fat;06-03-1995;1;no;85;3;23:30;Going to the VU;Drinking beer ;0
+4/1/2019 16:01:45;Digital Business & Innovation;no;0;mu;nee;male;neither;17/07/1995;2;no;50;8;03:00;Sun;Euros;0
+4/1/2019 16:01:46;CS;yes;1;mu;nee;male;I have no idea what you are talking about;01-10-1996;3;no;100;8;6;Food;Beer;10
+4/1/2019 16:01:46;Computational Science ;yes;1;mu;nee;male;neither;04-12-1991;5;yes;35;7;01:30;No deadlines ;Good weather ;0
+4/1/2019 16:01:46;AI;no;1;mu;nee;female;I have no idea what you are talking about;19-12-1993;2;no;0,20;3;00:30;Fnatic winning games in LEC;Sunny weather and some cider;10
+4/1/2019 16:01:46;Computational science;no;0;mu;nee;male;I have no idea what you are talking about;16 dec;A lot;unknown;1;3,14159;12;Eating yoghurt;Doing hobbies;57
+4/1/2019 16:01:46;Computational Science;yes;1;mu;ja;male;neither;24/09/1996;2;no;47100;2;didn't sleep;Relaxing;Eating good food;0
+4/1/2019 16:01:46;Business Analytics;yes;0;mu;nee;male;I have no idea what you are talking about;2-5-1975;6;no;50;1;0:30;Enough sleep;Enough fysical excercise;40
+4/1/2019 16:01:46;Econometrics;yes;0;mu;nee;male;fat;03-1994;8;no;99;1;22:00;Being productive;Being social;0
+4/1/2019 16:01:47;MSc Bioinformatic;yes;0;unknown;nee;unknown;neither;09/09/96;5;unknown;25;666;1:00;Serotonin;My frens;20
+4/1/2019 16:01:47;Msc Bioinformatics;yes;0;mu;nee;male;slim;xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;10+;no;5;googol;11;Good Food;Good times with friends;0,02
+4/1/2019 16:01:47;Business Administration;no;1;mu;nee;male;fat;17-05-1993;6;no;27;5;22:00;Enough sleep;Worker out;60
+4/1/2019 16:01:47;AI;no;0;mu;nee;female;fat;14-09-1996;8;no;100;9;00:00;Meeting a good friend ;Sports;30
+4/1/2019 16:01:47;Financial Econometrics ;no;0;mu;nee;female;slim;22-3-1996;400;no;15;5;23:00;Laughing;Food;80
+4/1/2019 16:01:48;CS;yes;1;sigma;ja;male;I have no idea what you are talking about;1994;9;no;100;0;05:10;Sunshine;Slumberparties;1
+4/1/2019 16:01:48;DS;yes;0;mu;ja;unknown;I have no idea what you are talking about;September 27 1994;470;no;5;7;1am;Sun;Friends;2
+4/1/2019 16:01:48;Ai;yes;1;mu;ja;male;fat;05 05 1993;1;no;5;4,57;0:00;Good food;Hot shower;99
+4/1/2019 16:01:48;AI;yes;1;mu;nee;male;fat;07/10/1994;5;no;3;3;01:05;A dopamine rush;Sun shining;68
+4/1/2019 16:01:48;BA;yes;0;mu;ja;female;neither;14-07-1995;8;no;80;8;22,3;Sunshine;Friends ;10
+4/1/2019 16:01:48;AI;yes;1;mu;nee;male;I have no idea what you are talking about;1991;400;no;100/400;2;23:00;Kindness;Food;5
+4/1/2019 16:01:48;Master of Finance;no;0;mu;nee;male;neither;17-03-1994;3;no;0,25;7;1.40 AM;Enough time in the morning;Slow day;0
+4/1/2019 16:01:48;AI;no;1;mu;ja;female;neither;30-10-1994;1;no;100;7;1:30;When I see dogs and can pet them;When I get to spend the day with my boyfriend;15
+4/1/2019 16:01:49;Boinformatics;yes;0;mu;nee;female;fat;0406;1;no;6;6;2;Nice weather ;Lovely people around you ;6
+4/1/2019 16:01:49;Computational science;no;0;mu;nee;female;neither;14-07;4;no;1;6;1:15;Friends;Weather;10
+4/1/2019 16:01:49;AI;yes;0;mu;ja;male;neither;04/08/1993;1;no;12;8;2;No deadlines to work on ;Sunny weather ;20
+4/1/2019 16:01:49;Computational Science;no;1;unknown;nee;male;fat;20-12;400;no;€0,20;6;22:40;Sun cream;Sailboat;40
+4/1/2019 16:01:49;AI;yes;1;sigma;ja;female;neither;30-04-1993;5;no;100;9;11.30 p.m;Productive ;Chocolate ;0
+4/1/2019 16:01:49;Business Analytics;yes;0;mu;nee;female;slim;07/02/1995;2;no;1000;8;01:30;Beach;Sun;10
+4/1/2019 16:01:50;QRM;no;0;mu;ja;male;fat;27/08/1996;1;no;90;7;11:30 pm;Sunny day;Fun;70
+4/1/2019 16:01:50;AI;yes;1;mu;unknown;male;I have no idea what you are talking about;18-06/'92;20;yes;zeventig euro;1;1:30;Fun ;Daan;2
+4/1/2019 16:01:50;BA;yes;0;mu;ja;male;slim;9-11-2001;471;no;5;1;2:00;No lectures;Pizza;10
+4/1/2019 16:01:50;CS;yes;0;mu;ja;male;I have no idea what you are talking about;11/08/1994;6;no;25c;3,141;1:00;weed, beer;no weed, no beer, no sun;5
+4/1/2019 16:01:50;AI;no;1;mu;nee;female;neither;02-09-1995;2;no;1;5;23:50;succeeding in life;being well rested;60
+4/1/2019 16:01:51;Master Econometrics & OR;no;0;mu;nee;male;I have no idea what you are talking about;09/10/1993;7;no;7;2;1;Completing my Thesis;Passing this course;5
+4/1/2019 16:01:51;Master Computer Science;yes;0;mu;ja;male;I have no idea what you are talking about;16/02/1989;10;no;1000;6;3:00;Blue sunny sky;Gangbangparty;100
+4/1/2019 16:01:51;Artificial Intelligence;yes;0;mu;ja;male;I have no idea what you are talking about;1995;2;yes;100;9;03:00;Success;Love;80
+4/1/2019 16:01:51;Duisenberg QRM;no;0;mu;nee;male;fat;02-09-1994;8;no;0;1;0:00;Having time to chill;Still being productive;50
+4/1/2019 16:01:51;Computational science;no;0;mu;nee;female;unknown;11/03/1996;1;no;16;6;00:30;everything;everything;100
+4/1/2019 16:01:52;Bioinformatics & Systems Biology;no;0;mu;ja;male;neither;02/13/1995;4;no;5;9;1:27;Winning a tennis match;Being with friends;30
+4/1/2019 16:01:51;Artificial intelligence;yes;1;mu;nee;male;neither;12-03-1997;8;no;5;8;0:15;Productive;Gezellig;50
+4/1/2019 16:01:52;x;unknown;unknown;unknown;unknown;unknown;unknown;x;x;unknown;x;x;x;x;x;x
+4/1/2019 16:01:52;AI;no;0;mu;nee;female;I have no idea what you are talking about;March 6th;469;no;100/470;5;2 am;Llamas;Pungent paws;78
+4/1/2019 16:01:53;Bioinformatics and Systems Biology ;no;0;unknown;ja;female;fat;010596;250;yes;10;84;2300;Enough sleep the night before;A sunny day;50
+4/1/2019 16:01:53;BioSB;yes;1;mu;nee;unknown;neither;8-7-1985;4;no;30;9;10;food;drinks;50
+4/1/2019 16:01:53;AI;yes;1;mu;nee;male;I have no idea what you are talking about;1995;5;no;Barkie;2;00:30;Nice weather;Good food;80
+4/1/2019 16:01:53;Computational Science;no;0;mu;nee;male;I have no idea what you are talking about;11-11-1995;8;no;99;7;00:30;Good weather;Being drunk;10
+4/1/2019 16:01:53;Bioinformatics;yes;0;unknown;ja;male;I have no idea what you are talking about;19/12/1992;20;no;90;8;0,3;Weed;Sex;75
+4/1/2019 16:01:53;Master Management, Policy Analysis and Entrepeneurship in health and life sciences;no;0;sigma;nee;male;fat;10-08-1996;0;no;30;2;11:18;Small things that go right ;Happy people;80
+4/1/2019 16:01:56;Computational Science;no;0;mu;nee;male;fat;13/07/1995;8;yes;100;22/7;2pm;Being at the VU;Living at the VU;50
+4/1/2019 16:01:54;AI;yes;0;mu;nee;male;I have no idea what you are talking about;22091993;22;yes;100;7;0800;Gf;Weed;60
+4/1/2019 16:01:55;computer science;no;0;mu;nee;male;I have no idea what you are talking about;02;4;no;10;7;12;food;dog;70
+4/1/2019 16:01:55;Business Analytics ;yes;1;mu;ja;male;fat;15-10-1993;1;no;50;8;23:00;Sex;No school;75
+4/1/2019 16:01:55;DHPQRM;no;0;mu;nee;male;neither;22/11/1993;5;no;100/470;12;22:30;Slept well;Ate well;0
+4/1/2019 16:01:55;Computational Science joint degree;yes;0;sigma;ja;male;I have no idea what you are talking about;December 4th;2;no;7;4;23:00;Sun light;Warm weather;42
+4/1/2019 16:01:55;Artificial Intelligence Master;yes;1;mu;ja;male;I have no idea what you are talking about;23-01-1996;6;no;40;7;24:00;Nice food;Data mining lectures;5
+4/1/2019 16:01:55;Bioinformatics & Systems Biology;yes;0;mu;nee;female;fat;30-07-1992;8;no;1;7;22;good night of sleep;working out;50
+4/1/2019 16:01:55;Bioinformatics & Systems Biology;yes;0;mu;nee;male;fat;10;9;no;€5;2;23;Coffee;Sun;25
+4/1/2019 16:01:56;QRM;no;0;unknown;nee;unknown;fat;02.09.1993;4;unknown;100;7;00:15;Sunny ;Free of work;75
+4/1/2019 16:01:56;AI;yes;1;mu;nee;female;fat;07-10-1993;2;no;0,25;9;22:30;Nice weather ;friends ;5
+4/1/2019 16:01:56;Information sciences ;no;1;mu;ja;male;I have no idea what you are talking about;March;1;no;42;6;12;Sun;-;42
+4/1/2019 16:01:56;Computational Science;no;0;mu;ja;male;fat;13-01-1994;5;no;10;1;23;Sun ;Day drinking ;15
+4/1/2019 16:01:57;Econometrics;no;0;mu;nee;female;slim;15/06/1996;2;no;10;4;23:30;Coffee;Sunshine;80
+4/1/2019 16:01:57;AI;no;0;mu;nee;female;neither;23-03-1994;5;no;2;8;1:30;chilling;sun;70
+4/1/2019 16:01:57;Bioinf;yes;1;mu;ja;male;fat;28-12-1993;5;no;10;2;23:30;Music;Books;26
+4/1/2019 16:01:57;CS (Exchange);yes;0;mu;ja;male;neither;01/09/1995;3;no;0,25;42;01:30;Sex;Eating out;65
+4/1/2019 16:01:57;AI;no;0;sigma;ja;male;neither;16021990;5;no;0,1;3;0300;Waking up energized;Fun things planned;9001
+4/1/2019 16:01:57;Econometrics;yes;0;mu;ja;male;neither;25-12-1995;1;no;10;3;0;Sun;Feyenoord;5
+4/1/2019 16:01:57;CLSJD;no;1;mu;nee;unknown;neither;Tien December negentienhonderdtweeennegentig;"Zeven""':;";yes;100;💯;ONWAAR;Weather;😎;Epsilon
+4/1/2019 16:01:58;BA;yes;0;mu;ja;male;I have no idea what you are talking about;24121993;0;no;220;6;7;Sun;Round;92
+4/1/2019 16:01:58;Econometrics and Operations Research;no;0;sigma;ja;female;fat;30/12/1992;5;no;10;11;2;sunny day;positive mood;50
+4/1/2019 16:01:58;AI;yes;1;mu;ja;unknown;I have no idea what you are talking about;19-02-1996;2;no;1;9,76;23:30;Sun;Sleep;10
+4/1/2019 16:01:58;AI;yes;1;mu;nee;female;neither;23-09-1996;2;no;5;4;23:00;Sun;Dinner;80
+4/1/2019 16:01:58;Bioinformatics and Systems Biology Master's;no;0;mu;ja;male;I have no idea what you are talking about;20/09/87;1;no;25;7;5am;peace everywhere;don't know;100
+4/1/2019 16:01:58;AI;yes;1;mu;ja;male;slim;1995;2;yes;1€;4;23:30;Sunny weather;Sports activity;30
+4/1/2019 16:01:59;AI;yes;1;mu;nee;male;fat;03-06;1;no;5;9;02:30;Food;Waking up on time;20
+4/1/2019 16:01:59;Computer Science;no;1;unknown;ja;male;neither;15/06/1993;350;no;120;6;00:25;Extra hours of sleep;Empty to do list ;1
+4/1/2019 16:02:00;AI;yes;1;mu;ja;male;unknown;69-69-1969;8;no;100;3;03:00;¯\_(ツ)_/¯;¯\_(ツ)_/¯;9001
+4/1/2019 16:02:00;BA;yes;0;mu;ja;female;I have no idea what you are talking about;25-03;2;no;80;9;23u;The sun;Soccer;20
+4/1/2019 16:02:00;MA Language Technology;yes;0;mu;nee;female;neither;19 April;6;no;80;9;00:00;Sunny;Not working;30
+4/1/2019 16:02:00;Ai;no;0;mu;nee;female;fat;14-09;6;no;0,04;4;22,3;Sunny day;Friends, having a dring and bites;30
+4/1/2019 16:02:00;Business Administration: Digital Business & Innovation;no;0;mu;nee;male;fat;23-02;5;no;5;8;1:10AM;Beer;Sunshine;70
+4/1/2019 16:02:00;AI;no;1;mu;nee;male;fat;03051995;23;no;5;6;2230;sunshine;No obligations;65
+4/1/2019 16:02:00;QRM;no;0;mu;nee;male;neither;06-05;8;no;100;7;12:18;Hookers;Cocaine;0
+4/1/2019 16:02:00;Computer Science - internet and web technologies;no;1;mu;ja;male;neither;13/0195;0;no;50;3,14159265359;3 am;If I accomplish all the goal i had prefixed for that day;If i don't have to postpone anything;20
+4/1/2019 16:02:00;AI;yes;1;mu;nee;female;slim;3/7/1995;1;no;50;6674336895322579;12;Sun;Time with friends;40
+4/1/2019 16:02:00;Bioinformatics & Systems Biology;yes;0;sigma;nee;female;fat;26-08-1996;1;no;60;5;22:30;Sunny weather;Good company;15
+4/1/2019 16:02:01;Masters EOR;no;0;mu;nee;female;neither;21/02/1996;0;no;20;1;00:00;Sunny;Friends&Beer;50
+4/1/2019 16:01:59;Business Analytics and Data Science;yes;unknown;mu;unknown;female;fat;28-12-1994;1;no;0;3,33;00:00;Sunny weather;A smooth day;70
+4/1/2019 16:02:01;Health Sciences;no;0;mu;nee;female;slim;05-11-1996;2;no;0,5;8;1,3;Nice food;No studying;10
+4/1/2019 16:02:02;CS;yes;0;mu;nee;male;unknown;3rd of april;3;no;100/470;7;23;Sunny weather;Weekend;101
+4/1/2019 16:02:02;BA;yes;0;mu;ja;female;fat;08;3;no;5;7;2;sun shine;pet;0
+4/1/2019 16:02:02;BA;yes;0;mu;ja;male;neither;1995;400;no;80;3,14;11:30 PM;Enough food.;The sun in the afternoon.;70,45
+4/1/2019 16:02:03;Computer Science;yes;1;mu;ja;male;neither;That's classified;400+;no;12 Millions ;Pi;Today;No class;No work;9999999999999
+4/1/2019 16:02:02;mBA;yes;1;mu;ja;male;neither;1995-08-08;5;no;"100/475*#£"":";1;twelve;nothing to do;o;0
+4/1/2019 16:02:02;AI;yes;1;mu;ja;male;fat;13-01;7;no;100/470 = 0.21;7;03:30;Head;Food;34
+4/1/2019 16:02:02;Maths, stochastics, master, UvA;yes;0;mu;nee;male;neither;28/11/——;1;no;100/471;2;23;It being productive;Having time to do everything;60
+4/1/2019 16:02:02;QRM;no;0;mu;nee;male;slim;28-04-1996;3;no;0;7;12;Get money;Food;30
+4/1/2019 16:02:03;UvA: Information Systems - Data Science;yes;0;mu;ja;male;neither;Kingsday;2;unknown;60;42;2200;Board games;Beer;0
+4/1/2019 16:02:03;Artificial Intelligence;yes;1;mu;ja;female;I have no idea what you are talking about;08-01-1997;2;no;100;3;01:00;Good food;Nice weather;50
+4/1/2019 16:02:04;UvA Master Information Studies, Track Data Science;yes;1;mu;ja;male;fat;1/1/1971;4;no;2;3736536379120;02:33;Nobody bothers me;Sun;10
+4/1/2019 16:02:04;BA;yes;1;mu;ja;male;fat;1994;1;no;66;12;11;Beer;Sex;20
+4/1/2019 16:02:04;Computer Science;no;0;mu;nee;male;slim;040995;8;no;80;4;0:00;money;food;50
+4/1/2019 16:02:04;BA;yes;0;mu;ja;male;I have no idea what you are talking about;31-10-1995;1;no;99;9;23:30;Football;Nice food;0
+4/1/2019 16:02:04;Econometrics ;no;0;unknown;nee;male;fat;17 july;4;no;10;313;0,5;Good relationships that day;Having learned something usefull;50
+4/1/2019 16:02:04;information sciences ;yes;0;mu;ja;male;I have no idea what you are talking about;9.1.;8;no;0;9;4am;The number of tasks I was able to complete.;Had a meaningful conversation ;42
+4/1/2019 16:02:04;Econometrics;no;1;mu;nee;male;fat;01-10-1991;0;no;0,2;8;20:45;The sun;Working out;23
+4/1/2019 16:02:05;CS;no;1;mu;ja;male;slim;1995;2;no;100;6;2:00;good weather;shuqi;3
+4/1/2019 16:02:05;Multiple programmes;yes;1;mu;ja;male;neither;00-00-0000;5;yes;€inf;3;02:30;Having no exam;Flipping tables;9000+
+4/1/2019 16:02:05;CS;no;1;mu;ja;female;neither;26 Feb;2;no;1;2;2;relax;good meal;50
+4/1/2019 16:02:06;Finance;no;0;mu;nee;male;slim;24-04-1996;4;no;10;7;0030;Sporten ;Thuis komen;0
+4/1/2019 16:02:06;MSc Computational Science;no;0;mu;nee;female;I have no idea what you are talking about;30/11/1992;8;no;0,22;7;02:00;Not sitting in a room with 400 students;No 9 am lectures;30
+4/1/2019 16:02:06;CLS;no;0;sigma;nee;male;neither;11.06.93;1;no;1;9;1:00;Meeting up with nice people;Good weather;5
+4/1/2019 16:02:06;Bioinformatics and Biology Systems;no;0;sigma;ja;male;unknown;April 2nd;8;no;10;7;12;Good weather ;Nothing to worry about ;99
+4/1/2019 16:02:06;QRM;no;unknown;mu;nee;male;I have no idea what you are talking about;1-1-1993;2;no;1;1;23;data bitches;blow;100
+4/1/2019 16:02:07;BA;yes;0;mu;nee;female;neither;19-10-1995;2;no;0,25;4;23:00 uur;Nice wheater;Hobby;20
+4/1/2019 16:02:07;Master Econometrics;yes;1;mu;ja;male;I have no idea what you are talking about;21-08-1996;0;no;0,5;7;1:30;No obligations;Games;75
+4/1/2019 16:02:07;BA;yes;0;mu;ja;male;neither;17-09-1996;2;no;30;8;23:45;Nice weather;No deadlines;60
+4/1/2019 16:02:07;Bioinformatics and systems biology ;yes;0;sigma;ja;female;I have no idea what you are talking about;1994;10;no;50;2;4;Relaxing;Family;90
+4/1/2019 16:02:08;UvA AI;yes;1;mu;ja;male;fat;11.4.1995;3;no;2;7;01:00;Day at the beach;The sun;15
+4/1/2019 16:02:09;BA;yes;0;mu;nee;female;fat;13-11-1995;1;no;60;4;23:15;Sun;Nice food;25
+4/1/2019 16:02:09;Information Studies: Data Science (UvA);yes;0;mu;ja;male;fat;30/07;3;no;20;6;23:15;It being the weekend;Good weather;20
+4/1/2019 16:02:08;BA;yes;0;mu;nee;male;fat;21-05-1996;8;no;2;1;23:00;No lecture;No deadlines in the near future;43
+4/1/2019 16:02:11;Financial econometrivs;no;0;mu;nee;male;fat;22+1/4.5*2/92;1;no;10;3,14150692;23:10;Zonnige dag;F1 race;67
+4/1/2019 16:02:12;AI;yes;0;mu;nee;male;neither;19/10/1995;5;no;1;5;3:30;Sunshine;Productivity;5
+4/1/2019 16:02:11;RM Humanities: Linguistics;no;0;sigma;nee;female;neither;09-06-1989;2;no;17;9;2 am;favourite person;good sleep;55
+4/1/2019 16:02:12;Cls;unknown;0;sigma;ja;male;I have no idea what you are talking about;4 september 1995;2;no;1;491995;12;Warmth;. ;90
+4/1/2019 16:02:13;Computer Science;no;1;mu;nee;male;I have no idea what you are talking about;10-08;3;no;€1;5;2 am;Good weather;Good grades;5
+4/1/2019 16:02:14;MSc Artificial Intelligence;yes;1;sigma;nee;male;neither;12-01-1995;0;no;99;1;12 pm;Day off;Pasta;0
+4/1/2019 16:02:14;CS;no;1;unknown;ja;female;fat;10/5;3;no;100;5;4;no class;good weather;20
+4/1/2019 16:02:15;MSc Computational Science;yes;1;mu;ja;male;fat;July 1994;7;no;4,7;5;01:30;Sunshine;Swimming;7
+4/1/2019 16:02:15;Computer Science;no;1;mu;ja;male;I have no idea what you are talking about;#;5;no;212.765.957.446.809;7;1am;Sun;Food;100000000000
+4/1/2019 16:02:16;CS;no;1;mu;ja;male;neither;21-09;6;no;20;7;3,2;Sunny day of relaxation;Eating delicious food ;10
+4/1/2019 16:02:16;Computational Science;yes;0;mu;nee;male;slim;17/07/1996;2;no;77;7;1:45;No lecture;Time for sports;17
+4/1/2019 16:02:16;Computer Science Big Data Engineering Master;yes;1;mu;ja;female;fat;20.03.1996.;2;no;spare some coins;9;it was actually today, 4am;good people;wine;10^3
+4/1/2019 16:02:18;AI;yes;0;mu;nee;male;fat;0704;3;no;40;3;02:00;not Monday;yes;55
+4/1/2019 16:02:20;Computational Science;yes;1;mu;nee;unknown;fat;27-03-1992;35;no;101;9,99999;01:30;Time for: reading/music/training;Being with a loved one;30
+4/1/2019 16:02:21;Bioinformatics;yes;1;mu;ja;male;neither;1994;6;no;1;8;02:00;Sun;Food;10
+4/1/2019 16:02:24;Computer science masters;yes;1;mu;ja;female;I have no idea what you are talking about;20.02.1996;7;no;50;8;Today at 3am;Beer;Petting dog (preferably more than one);100
+4/1/2019 16:02:23;CLS;no;0;mu;nee;male;neither;14-04-1996;8;no;1;5;22;Goud;Music;200
+4/1/2019 16:02:24;Computer Science;yes;1;mu;ja;male;neither;September 16;3;no;3;3;2am;Sun;Football game;15
+4/1/2019 16:02:25;BA;yes;1;mu;nee;male;fat;25-03;2;no;1;8;~1100 pm;Much sleep;Winning;10
+4/1/2019 16:02:25;AI;yes;1;sigma;ja;male;I have no idea what you are talking about;25/07/1994;1;no;0;832795585298;3:00am;A nice hike;A lot of interesting work done ;15
+4/1/2019 16:02:29;Computer Science ;no;0;sigma;ja;male;slim;1-1-2030;77;no;some money would be nice ;7;0;Football ;Mo Money ;200
+4/1/2019 16:02:39;Business Administration;yes;0;mu;nee;male;fat;04/09/1994;10;no;0,5;3;1 AM;Temperature;Free time;50
+4/1/2019 16:02:40;Computational Science;no;0;mu;nee;male;fat;14-04-1993;9;no;0,25;8,8888;23:56;Nice company;New experiences;34
+4/1/2019 16:02:44;Computational Science;no;0;mu;nee;female;I have no idea what you are talking about;08-04;5;no;0,25;3;23:30;Having friends around;Laughing;60
+4/1/2019 16:02:45;Business Analytics;yes;1;mu;ja;male;fat;09041996;9,3;no;10;7;23:00;Good data mining grade;pizza;60
+4/1/2019 16:02:55;BA;yes;0;mu;ja;male;slim;First of october;four (4);unknown;0,1;sqrt (-1);10 o clock;Good coffee;Italian vineyards;99,9
+4/1/2019 16:02:56;CS;no;0;mu;ja;male;fat;21/10/1995;80;no;100;10;2:00;Arsenal wins;Sports;0
+4/1/2019 16:03:51;ai;no;1;sigma;ja;male;fat;20-11-1990;k;yes;100/no. students;42;02:00;eating chocolate;not being fat;80
+4/1/2019 16:31:16;Psychology;no;unknown;sigma;nee;unknown;slim;14/7/1998;50;unknown;100;79;1:30;Chocolate ;Poepen;98
+4/1/2019 16:53:39;AI;yes;1;mu;ja;female;neither;25-11-1994;5;no;100;5;00:30;Sunshine;Coffee;55
